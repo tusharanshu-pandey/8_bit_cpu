@@ -1,0 +1,25 @@
+# Vivado generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sdk/
+*.sim/
+
+# Vivado journal and log files
+*.jou
+*.log
+*.str
+
+# Xilinx temp directory
+.Xil/
+
+# Bitstream and implementation outputs
+*.bit
+*.ltx
+*.xsa
+.claude/
+
+# Vivado backup files
+*.bak
+*_bak/
